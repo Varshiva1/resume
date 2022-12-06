@@ -32,7 +32,7 @@ body {
 
 /* GENERAL ELEMENTS */
 .section {
-  padding: 15rem 3rem 0 3rem;
+  padding: 7rem 3rem 0 3rem;
   border-top: 1px solid #ddd;
   transition: transform 1s, opacity 1s;
 }
@@ -51,7 +51,7 @@ body {
   font-size: 3.5rem;
   font-weight: 600;
   text-transform: uppercase;
-  color: #c59e5e;
+  color: #50493d;
   margin-bottom: 1rem;
 }
 .btn--text {
@@ -152,7 +152,7 @@ body {
   display: flex;
   align-items: center;
   list-style: none;
-  color: white;
+  color: rgb(238, 153, 153);
 }
 
 .nav__item {
@@ -386,6 +386,7 @@ body {
 .contact_form input {
   border: none;
   height: 4rem;
+  text-align: center;
   font-size: 2rem;
   text-align: start;
   padding: 0 0.5rem;
